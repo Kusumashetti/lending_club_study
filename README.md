@@ -1,5 +1,5 @@
-# lending_club_study
-building machine learning model for lending club
+# lending_club
+building a case study model for lending club
 
 ## Table of Contents
 * [General Info](#general-information)
